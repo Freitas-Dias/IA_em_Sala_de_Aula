@@ -1,4 +1,4 @@
-# IA em Sala de Aula
+# 🎒 IA em Sala de Aula
 
 Este repositório guarda exemplos de como usar Inteligência Artificial
 para ajudar professores a planejar aulas, produzir materiais, criar atividades, 
