@@ -1,2 +1,11 @@
-# IA_em_Sala_de_Aula
-Repositório do desafio em IA aplicada à educação: valida o que você aprendeu e transforma em prática. Integra ChatGPT e Copilot para planejar a aula, produzir materiais, internacionalizar um trecho e adaptar atividades a dois perfis de alunos, observando autoria, ética e proteção de dados. Ideal para treinar decisões e fluência em IA educativa.
+# IA em Sala de Aula
+
+Este repositório guarda exemplos de como usar Inteligência Artificial
+para ajudar professores a planejar aulas, produzir materiais, criar atividades, 
+adaptar atividades a dois perfis de alunos e avaliar alunos, de forma correta e responsável.
+Ideal para treinar decisões e fluência em IA educativa
+
+Aqui você vai encontrar:
+- Prompts prontos
+- Exemplos de aulas
+- Regras para usar IA do jeito certo, observando autoria, ética e proteção de dados
