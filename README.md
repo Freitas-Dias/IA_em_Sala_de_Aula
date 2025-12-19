@@ -6,6 +6,6 @@ adaptar atividades a dois perfis de alunos e avaliar alunos, de forma correta e 
 Ideal para treinar decisões e fluência em IA educativa
 
 Aqui você vai encontrar:
-- Prompts prontos
-- Exemplos de aulas
-- Regras para usar IA do jeito certo, observando autoria, ética e proteção de dados
+- Prompts prontos;
+- Exemplos de aulas;
+- Regras para usar IA do jeito certo, observando autoria, ética e proteção de dados.
