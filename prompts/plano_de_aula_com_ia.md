@@ -1,4 +1,4 @@
-# 📑 Plano de aula completo (+ rubrica e transparência)
+# 📑 1. Plano de aula completo (+ rubrica e transparência)
 
 Atue como **coordenador pedagógico especialista em IA aplicada ao Ensino Superior**, com domínio da **Prática Baseada em Evidências (PBE/EBP) na Fisioterapia**.
 
