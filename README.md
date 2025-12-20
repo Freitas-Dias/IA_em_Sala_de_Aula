@@ -44,11 +44,12 @@ A entrega inclui plano, apresentação e reflexão crítica, com transparência 
 
 ## 3) Estrutura do repositório (sugerida)
 
-Projeto-Plano-Aula-IA/
-├─ Plano_de_Aula_IA.pdf
-├─ Apresentacao_Aula_IA.pptx
-├─ Reflexao_IA.docx
-└─ README.md
+```text
+📁 Projeto-Plano-Aula-IA/
+├── Plano_de_Aula_IA.pdf
+├── Apresentacao_Aula_IA.pptx
+├── Reflexao_IA.docx
+└── README.md
 
 ---
 
