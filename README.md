@@ -74,7 +74,8 @@ Projeto-Plano-Aula-IA/
 Descreva como o plano contempla pelo menos dois perfis:
 
 - **Perfil A:** [características] → adaptações em conteúdo/atividade/avaliação  
-- **Perfil B:** [características] → adaptações em conteúdo/atividade/avaliação  
+- **Perfil B:** [características] → adaptações em conteúdo/atividade/avaliação
+- **Perfil C:** [características] → adaptações em conteúdo/atividade/avaliação    
 
 *Exemplos de perfis:* dificuldades de leitura; alto interesse no tema; preferência visual; preferência auditiva; necessidades de ritmo diferenciado; acesso limitado a tecnologia etc.
 
