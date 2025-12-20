@@ -45,10 +45,11 @@ A entrega inclui plano, apresentação e reflexão crítica, com transparência 
 ## 3) Estrutura do repositório (sugerida)
 
 Projeto-Plano-Aula-IA/
-├─ Plano_de_Aula_IA.docx|pdf
+├─ Plano_de_Aula_IA.pdf
 ├─ Apresentacao_Aula_IA.pptx
-├─ Reflexao_IA.docx|pdf
+├─ Reflexao_IA.docx
 └─ README.md
+
 ---
 
 ## 4) Resumo do plano de aula (preencha)
